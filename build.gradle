@@ -1,5 +1,5 @@
 /**
- * Top-level build file for ftc_app project.
+ * Top-level build file for 2866 project.
  *
  * It is extraordinarily rare that you will ever need to edit this file.
  */
@@ -28,5 +28,3 @@ buildscript {
         }
     }
 }
-
-
